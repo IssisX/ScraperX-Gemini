@@ -1,0 +1,6 @@
+{
+  "name": "ScraperX",
+  "description": "Athletic first-person physical simulation and industrial megastructure ascent featuring coupled steam machinery, traversal mechanics, and crane operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
